@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Mitzingdash
-- 👀 I’m interested in programing and learning diferent programing languages (mostly python and java)
-- 💞️ I’m looking to collaborate on games and minecraft stuff
-- 📫 How to reach me wearwolfgamer99@gmail.com or instagram @wearwolf.gamer
+- Hi, I’m @Mitzingdash
+- I’m interested in programing and learning diferent programing languages (mostly python, java, javascript, typescript, HTML, css, c# and c++)
+- I’m looking to collaborate on games and minecraft stuff
